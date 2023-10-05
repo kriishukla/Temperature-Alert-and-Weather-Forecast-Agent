@@ -67,17 +67,17 @@ pip install matplotlib
 pip install tensorflow
 
 
-Installation
+## Installation
 Clone the repository to your local machine:
 
-git clone <repository_url>
+git clone https://github.com/kriishukla/HackAI_Hack-230580/edit/master/README.md
 cd temperature-alert-forecast-agent
 Configure the agents and set up your environment as mentioned in the Configuration section.
 
 Run the agents using Python:
 
 python main.py
-Weather Forecast
+## Weather Forecast
 The project also provides the option to retrieve weather forecasts for a specified location. To use this feature:
 
 Run the project as mentioned in the Usage section.
@@ -86,7 +86,7 @@ When prompted, enter the location for which you want to get the weather forecast
 
 The weather forecast will be fetched from OpenWeatherMap API and saved to a file named prediction.txt.
 
-Configuration
+## Configuration
 Make sure to configure the agents and API keys:
 
 Temperature Alert Agent: Configure the agent with your desired settings such as location, minimum and maximum temperature thresholds, API key, and endpoint.
@@ -97,7 +97,7 @@ OpenWeatherMap API Key: Obtain an API key from OpenWeatherMap and set it in the 
 
 
 
-Contact
+## Contact
 If you have any questions or need assistance with this project, please contact:
 Krishna:kriishukla@gmail.com
 Anish:Shuklaneesh@gmaail.com
