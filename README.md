@@ -77,7 +77,7 @@ Configure the agents and set up your environment as mentioned in the Configurati
 Run the agents using Python:
 
 python main.py
-## Weather Forecast
+### Weather Forecast
 The project also provides the option to retrieve weather forecasts for a specified location. To use this feature:
 
 Run the project as mentioned in the Usage section.
@@ -97,7 +97,7 @@ OpenWeatherMap API Key: Obtain an API key from OpenWeatherMap and set it in the 
 
 
 
-## Contact
+### Contact
 If you have any questions or need assistance with this project, please contact:
 Krishna:kriishukla@gmail.com
 Anish:Shuklaneesh@gmaail.com
