@@ -46,7 +46,7 @@ To use this project, you only need to follow one simple step:
 
 1. Run the main script `main.py`:
 
-```bash
+
 python main.py
 
 
@@ -58,7 +58,7 @@ python main.py
 
 You can install the required Python packages using pip:
 
-```bash
+
 pip install uagents 
 pip install requests
 pip install numpy
